@@ -10,16 +10,18 @@ import java.util.Scanner;
  *  no console, uma mensagem que vai dizer se o aluno passou ou não passou.
  */
 public class BooleanAlunoPassou {
+	
+	static final int NOTA_PARA_APROVAR_NA_MATÉRIA = 70;
 
 	public static void main(String[] args) {
 		
 		Scanner scanner = new Scanner (System.in);
 		double grade;
 		
-		System.out.println("Enter the student´s grade: ");
+		System.out.print("Enter the student´s grade: ");
 		grade=scanner.nextDouble();
 		
-		Boolean approved = grade>=70;
+		Boolean approved = grade>=NOTA_PARA_APROVAR_NA_MATÉRIA;
 		
 		if (approved) {
 			System.out.println("Congratulations! You have been approved!");
