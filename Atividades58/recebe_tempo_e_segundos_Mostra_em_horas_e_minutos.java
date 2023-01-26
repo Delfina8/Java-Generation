@@ -22,6 +22,7 @@ public class recebe_tempo_e_segundos_Mostra_em_horas_e_minutos {
 		System.out.println("\nTempo de duração em minutos: "+Tminutos);
 		System.out.println("\nTempo de duração em segundos: "+Tsegundos);
 
+		leia.close();
 	}
-
+	
 }

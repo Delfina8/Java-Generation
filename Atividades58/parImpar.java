@@ -32,7 +32,9 @@ public class parImpar {
 		}
 		
 		System.out.println("Resultado: "+resultado);
-
+		
+		read.close();
 	}
+	
 
 }

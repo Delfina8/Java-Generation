@@ -51,6 +51,10 @@ public class vetor_6inteiros {
 		}
 		
 			System.out.println("\nQuantidade de números ímpares digitados: "+contImpar);
+			
+			leia.close();
 		}
+	
+	
 
 }
