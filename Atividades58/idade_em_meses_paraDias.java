@@ -25,6 +25,8 @@ public class idade_em_meses_paraDias {
 		soma=idDias+idMeses;
 		
 		System.out.println("\nA sua idade em dias é: "+soma);
+		
+		leia.close();
 	}
 
 }

@@ -34,7 +34,7 @@ public class calcula_a_expressao {
 		
 		System.out.println("O resultado do cálculo é: "+D);
 				
-	
+		leia.close();
 
 	}
 
