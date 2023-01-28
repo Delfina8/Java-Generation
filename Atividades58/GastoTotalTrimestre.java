@@ -1,4 +1,4 @@
-package Atividades58;
+package atividades58;
 
 /*Na empresa em que trabalhamos, há tabelas com o quanto foi gasto em cada mês.
  * Para fechar o balanço do primeiro trimestre, precisamos somar o gasto total.

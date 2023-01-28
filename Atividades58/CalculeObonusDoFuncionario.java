@@ -1,4 +1,4 @@
-package Atividades58;
+package atividades58;
 
 /*
  * Pense em uma empresa fictícia que todo o mês de Janeiro premia seus funcionários com um bônus, 

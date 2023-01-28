@@ -1,4 +1,4 @@
-package Atividades58;
+package atividades58;
 
 /*Faça um programa que receba:
 O valor da conta de luz

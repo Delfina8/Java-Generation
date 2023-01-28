@@ -1,4 +1,4 @@
-package Atividades58;
+package atividades58;
 /*Imprima todos os múltiplos de 3, entre 1 e 100.
  */
 public class MultiplosDeTresAteCem {
